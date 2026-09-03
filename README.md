@@ -14,6 +14,6 @@ Desenvolver uma aplicação React utilizando o Visual Studio Code (VS Code) como
 ## 🚀 Passo a Passo de Execução
 
 ### 1. Criação do Projeto React no VS Codee
-1. Abra o terminal no VS Code e crie o projeto utilizando Vite:
+1. Abra o Terminal no VS Code e crie o projeto utilizando Vite:
    ```bash
    npm create vite@latest meu-projeto-react -- --template react
